@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Ongraph QuotesApp</string>
+    <string name="myBookMarks">My Bookmarks</string>
+
+    <string name="quote">\"%1$s\"</string>
+    <string name="author">- %1$s</string>
+
+    <string name="info">Swipe left on remove this card to load next Quote.</string>
+    <string name="release">
+        Release to load the next Quote!
+    </string>
+
+    <string name="noBookmarks">No Bookmarked Quote to show!</string>
+
+    <string name="bookmarks">Go to your Bookmarked Quotes.</string>
+    <string name="back">Go back to Quotes page.</string>
+
+    <string name="toogleBookMark">Bookmark</string>
+    <string name="share_description">Share Quote as an image</string>
+    <string name="save_quote">Save quote</string>
+
+    <string name="download">Download</string>
+    <string name="update_text">v%s of QuotesApp is available!</string>
+    <string name="download_url">http:/</string>
+
+    <string name="daily_notif_tag">daily_motivation</string>
+    <string name="notif_title">Your daily dose of motivation is here!</string>
+    <string name="Update">Reload items</string>
+    <string name="bottom_di_msg">This is Bottom Sheet dialog for \n\nImplementation the shimmering button that gives you a tactical feel followed by opening a straight forward bottom sheet dialog box</string>
+    <string name="info_quote">Swipe left/right on remove this card.</string>
+    <string name="ok">Ok</string>
+
+</resources>
